@@ -1,0 +1,6 @@
+{
+    "alice": {
+        "hashed_password": "GKaWAkP/bOqcdOlTH3x5IiAna4i47BcxelKUg3hnwgxy56OUR523Y31ekk1DlmlL",
+        "e2e_public_key_pem": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAqyxMc0/oL4W/P5osw0GO\n0ZNxcMymVMbMNtExSpq+r6d/lYnf8vhb9cplag27vxHuMtWgXqLQeRdNKtcaRhBD\nb3/ehOTepM6yQ7dddNfCFzIP+cFppDyWJJ/dVCaD3VI+9HcCo+y/BHeSPQkxExcT\n6MEj7FLNvVTRfjh0uOEXOK7Sytn79Rz9xrxnmeEO8uP+rp2O2STMlXnWLr7Ol6ai\nAF5NpN4rEmGMyfSsyTprAjM1uAzdk9JrzJ5elewkznTFdOdvX1jerecs+gIe7Lzu\ny/oB9IcvBmG5e0eToXE8r9UX7GdY3qnyw7eYoHeOdEFacXLArRxXFLUcNZ0Dqiex\n/wIDAQAB\n-----END PUBLIC KEY-----\n"
+    }
+}
